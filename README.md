@@ -10,7 +10,7 @@ A YouTube-style webpage built using HTML, CSS, and JavaScript.
 
 ## 🌐 Live Demo
 
-[🔗 View on GitHub Pages](https://2806shreya.github.io/Project1/)
+[🔗 View on GitHub Pages] (https://github.com/2806shreya/Project1.git)
 
 ## 👩‍💻 Author
 
